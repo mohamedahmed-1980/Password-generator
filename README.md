@@ -37,3 +37,14 @@ this project appaly javascript to generate random password</p>
 ## W3.ogr validation
 
 - ![W3 VALIDATION](W3.png)
+
+## feature
+
+- html file
+
+  - include index.html
+
+- css file
+- read me file
+- image
+- javascript file

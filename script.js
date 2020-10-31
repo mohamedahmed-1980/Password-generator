@@ -36,7 +36,7 @@
         var generatedPasswordAll = [];
         while(lenght < 8 || lenght > 128){
         alert('Invalid input');
-        var lenght = prompt("Choose a password length from 8 to 128. ")
+         lenght = prompt("Choose a password length from 8 to 128. ")
     } 
 
     // four confirms 
