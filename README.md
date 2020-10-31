@@ -36,4 +36,4 @@ this project appaly javascript to generate random password</p>
 
 ## W3.ogr validation
 
-- ![W3 VALIDATION](<img src = "W3.PNG")
+- ![W3 VALIDATION](W3.png)
